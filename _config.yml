@@ -1,3 +1,5 @@
+title: My Blog
+
 theme: minima
 
 minima:
@@ -5,3 +7,5 @@ minima:
   
 header_pages:
   - about.md
+
+show_exerpts: true
