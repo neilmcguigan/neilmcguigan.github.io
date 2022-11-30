@@ -2,8 +2,8 @@ title: My Blog
 
 theme: minima
 
-minima:
-  skin: dark
+# minima:
+#   skin: dark
   
 header_pages:
   - about.md
